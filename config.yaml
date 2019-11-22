@@ -1,4 +1,4 @@
-baseURL: http://example.org/
+baseURL: https://romanjam.github.io/acme-corporation/
 languageCode: en-us
 title: Acme Corporation
 publishDir: docs
