@@ -1,6 +1,8 @@
 baseURL: http://example.org/
 languageCode: en-us
 title: Acme Corporation
+publishDir: docs
+
 theme: "Eclectic"
 author:
   facebook: "https://facebook.com/example"
